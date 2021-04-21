@@ -18,8 +18,8 @@
   },
   "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "^5.2",
-    "irazasyed/telegram-bot-sdk": "^2.0",
+    "illuminate/support": "^5|7^|8^",
+    "irazasyed/telegram-bot-sdk": "^3.4",
     "symfony/yaml": "3.*",
     "predis/predis": "~1.0"
   },
